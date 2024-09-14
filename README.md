@@ -80,7 +80,7 @@ This project is open-source and available under the MIT License.
 - Various online resources for learning about flight management systems and data structures.
 
 ## Contact
-For any inquiries, please contact Hamza Amin via email: mh4070685@gmail.com
+For any inquiries, please contact Hamza Amin via email: <br> mh4070685@gmail.com <br> alivijdaan@gmail.com
 ```
 
 This README provides a comprehensive overview of the DSA Airline Project, detailing its features, usage, data structures, and how to get started. It also includes instructions for installation and contact information for further inquiries.
